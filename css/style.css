@@ -23,6 +23,7 @@ body {
 
 .img-box img {
     width: 100%;
+    display:block;
 }
 
 .profile {
