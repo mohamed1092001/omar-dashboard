@@ -28,7 +28,7 @@ body {
 .profile {
     display: flex;
     align-items: center;
-    gap: 25px;
+    gap: 15px;
 }
 
 .profile h2 {
